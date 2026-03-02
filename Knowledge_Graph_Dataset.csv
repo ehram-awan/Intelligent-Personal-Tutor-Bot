@@ -1,0 +1,190 @@
+Field,Subfield,Topic,Description
+Cyber Security,Overview,Description,Cyber Security is the practice of protecting systems and networks from digital attacks.
+Cyber Security,Overview,Why,Cyber Security offers a high-demand career protecting data and infrastructure from evolving digital threats.
+Cyber Security,Concepts,Firewall,A firewall is a security system that monitors and controls network traffic.
+Cyber Security,Concepts,Phishing,Phishing is a fraudulent attempt to obtain sensitive information by disguising as a trustworthy entity.
+Cyber Security,Concepts,Encryption,Encryption is the method of converting data into a coded format to prevent unauthorized access.
+Cyber Security,Concepts,Ethical Hacking,Ethical hacking is authorized testing to find and fix security vulnerabilities.
+Cyber Security,Concepts,VPN,A Virtual Private Network (VPN) creates a secure connection over the internet.
+Cyber Security,Concepts,DDoS,A Distributed Denial-of-Service (DDoS) attack overwhelms a system to disrupt service.
+Cyber Security,Concepts,Antivirus,Antivirus software detects and removes malicious software from devices.
+Cyber Security,Concepts,Two Factor Authentication,Two-factor authentication (2FA) adds an extra layer of security by requiring two forms of identification.
+Cyber Security,Concepts,Social Engineering,Social engineering manipulates individuals to disclose sensitive information.
+Cyber Security,Concepts,Cryptography,Cryptography secures information through encoding techniques.
+Cyber Security,Concepts,Intrusion Detection System,An IDS monitors networks for suspicious activity.
+Cyber Security,Concepts,Patch Management,Patch management involves updating software to fix vulnerabilities.
+Cyber Security,Concepts,Ransomware,Ransomware encrypts data and demands payment for access.
+Cyber Security,Concepts,Spyware,Spyware secretly collects user information without consent.
+Cyber Security,Concepts,Trojan Horse,A Trojan horse disguises malware as legitimate software.
+Cyber Security,Concepts,Worm,A worm is self-replicating malware that spreads across networks.
+Cyber Security,Concepts,Keylogger,A keylogger records keystrokes to steal sensitive information.
+Cyber Security,Concepts,Hashing,Hashing converts data into a fixed-length string for security.
+Cyber Security,Concepts,SSL,Secure Sockets Layer (SSL) encrypts data for secure online communication.
+Cyber Security,Concepts,TLS,Transport Layer Security (TLS) is an updated version of SSL.
+Cyber Security,Concepts,Penetration Testing,Penetration testing simulates attacks to identify vulnerabilities.
+Cyber Security,Concepts,Zero Day Exploit,A zero-day exploit targets unknown software vulnerabilities.
+Cyber Security,Concepts,Brute Force Attack,A brute force attack tries multiple password combinations.
+Cyber Security,Concepts,Man in the Middle Attack,A MITM attack intercepts communication between two parties.
+Cyber Security,Concepts,SQL Injection,SQL injection inserts malicious code into database queries.
+Cyber Security,Concepts,Cross Site Scripting,XSS injects malicious scripts into trusted websites.
+Cyber Security,Concepts,Security Policy,A security policy outlines rules to protect organizational assets.
+Cyber Security,Concepts,Biometric Authentication,Biometric authentication uses physical traits like fingerprints for access.
+Cyber Security,Concepts,Network Segmentation,Network segmentation divides networks to limit attack spread.
+Cyber Security,Concepts,Incident Response,Incident response is a plan to address security breaches.
+Cyber Security,Concepts,Data Breach,A data breach is unauthorized access to sensitive information.
+Cyber Security,Concepts,Dark Web,The dark web is a hidden internet layer often used for illegal activities.
+Cyber Security,Concepts,Endpoint Security,Endpoint security protects devices like laptops and phones.
+Machine Learning,Overview,Description,Machine Learning is a field of AI that allows computers to learn from data without being explicitly programmed.
+Machine Learning,Concepts,AI,Artificial Intelligence (AI) is the simulation of human intelligence in machines.
+Machine Learning,Concepts,Supervised Learning,Supervised learning uses labeled data to train models.
+Machine Learning,Concepts,Unsupervised Learning,Unsupervised learning finds hidden patterns or intrinsic structures in data.
+Machine Learning,Concepts,Reinforcement Learning,Reinforcement learning is based on agents learning by reward or punishment.
+Machine Learning,Concepts,Overfitting,Overfitting happens when a model performs well on training data but poorly on new data.
+Machine Learning,Concepts,Deep Learning,A subset of ML using neural networks with many layers to learn from large data.
+Machine Learning,Concepts,Feature Engineering,Feature engineering creates or selects relevant input variables.
+Machine Learning,Concepts,Cross Validation,Cross-validation assesses model performance on different data subsets.
+Machine Learning,Concepts,Bias Variance Tradeoff,Bias-variance tradeoff balances model complexity and generalization.
+Machine Learning,Concepts,Gradient Descent,Gradient descent optimizes model parameters by minimizing errors.
+Machine Learning,Concepts,Hyperparameter Tuning,Hyperparameter tuning adjusts settings to improve model performance.
+Machine Learning,Concepts,Confusion Matrix,A confusion matrix summarizes classification model performance.
+Machine Learning,Concepts,Precision,Precision measures the proportion of correct positive predictions.
+Machine Learning,Concepts,Recall,Recall measures the proportion of actual positives correctly identified.
+Machine Learning,Concepts,F1 Score,F1 score is the harmonic mean of precision and recall.
+Machine Learning,Concepts,Clustering,Clustering groups similar data points without labels.
+Machine Learning,Concepts,Dimensionality Reduction,Dimensionality reduction simplifies data while retaining key information.
+Machine Learning,Concepts,PCA,Principal Component Analysis (PCA) reduces data dimensions.
+Machine Learning,Concepts,Regression,Regression predicts continuous numerical outcomes.
+Machine Learning,Concepts,Classification,Classification predicts categorical outcomes.
+Machine Learning,Concepts,Ensemble Learning,Ensemble learning combines multiple models for better results.
+Machine Learning,Concepts,Bagging,Bagging reduces variance by training models on random data subsets.
+Machine Learning,Concepts,Boosting,Boosting improves weak models by focusing on errors.
+Machine Learning,Concepts,Regularization,Regularization prevents overfitting by penalizing complexity.
+Machine Learning,Concepts,Decision Tree,Decision Trees split data based on feature conditions.
+Machine Learning,Concepts,Random Forest,Random Forest is an ensemble of decision trees.
+Machine Learning,Concepts,SVM,Support Vector Machine (SVM) finds the best hyperplane for classification.
+Machine Learning,Concepts,KNN,K-Nearest Neighbors (KNN) classifies based on closest data points.
+Machine Learning,Concepts,Linear Regression,Linear Regression models relationships between variables.
+Machine Learning,Concepts,Logistic Regression,Logistic Regression predicts binary outcomes.
+Machine Learning,Concepts,Neural Network,Neural Networks mimic human brain for complex pattern recognition.
+Machine Learning,Concepts,A Star,A* (A Star) is a pathfinding algorithm using heuristics for optimal routes.
+Machine Learning,Concepts,AO Star,AO* is a heuristic search algorithm for AND-OR graphs.
+Machine Learning,Concepts,Naive Bayes,Naive Bayes uses probability for classification tasks.
+Machine Learning,Concepts,Gradient Boosting,Gradient Boosting builds models sequentially to minimize errors.
+Machine Learning,Concepts,XGBoost,XGBoost is an optimized gradient boosting algorithm.
+Machine Learning,Concepts,LightGBM,LightGBM is a fast gradient boosting framework.
+Machine Learning,Concepts,CatBoost,CatBoost handles categorical features efficiently.
+Machine Learning,Concepts,K Means,K-Means clusters data into K groups based on similarity.
+Machine Learning,Concepts,DBSCAN,DBSCAN clusters data based on density.
+Machine Learning,Concepts,Hierarchical Clustering,Hierarchical clustering builds a tree of clusters.
+Machine Learning,Concepts,Apriori,Apriori finds frequent itemsets in transactional data.
+Machine Learning,Concepts,Markov Decision Process,MDP models decision-making in reinforcement learning.
+Machine Learning,Concepts,Q Learning,Q-Learning is a model-free reinforcement learning algorithm.
+Data Science,Overview,Description,Data Science is an interdisciplinary field focusing on extracting knowledge and insights from data.
+Data Science,Concepts,Data Wrangling,Data wrangling is the process of cleaning and transforming raw data into usable format.
+Data Science,Concepts,Data Pipeline,A data pipeline automates the flow of data from source to analysis.
+Data Science,Concepts,EDA,Exploratory Data Analysis summarizes data characteristics through visualization.
+Data Science,Concepts,Big Data,Big data involves massive datasets requiring distributed storage and processing.
+Data Science,Concepts,Data Mining,Data mining involves finding patterns and relationships in large datasets.
+Data Science,Concepts,Data Visualization,Data visualization helps understand data trends through charts and graphs.
+Data Science,Concepts,Hadoop,Hadoop is a framework for distributed storage and processing.
+Data Science,Concepts,Spark,Apache Spark is a fast engine for big data processing.
+Data Science,Concepts,SQL,SQL is a language for querying and managing databases.
+Data Science,Concepts,NoSQL,NoSQL databases handle unstructured or semi-structured data.
+Data Science,Concepts,Data Warehouse,A data warehouse stores large amounts of historical data.
+Data Science,Concepts,Pandas,Pandas is a Python library for data manipulation.
+Data Science,Concepts,NumPy,NumPy is a Python library for numerical computations.
+Data Science,Concepts,Matplotlib,Matplotlib is a Python library for data visualization.
+Data Science,Concepts,Seaborn,Seaborn is a Python library for statistical visualizations.
+Data Science,Concepts,Power BI,Power BI is a Microsoft tool for interactive data visualization.
+Data Science,Concepts,Tableau,Tableau is a platform for creating interactive dashboards.
+Data Science,Concepts,Statistical Analysis,Statistical analysis uses math to interpret data.
+Data Science,Concepts,Hypothesis Testing,Hypothesis testing evaluates assumptions about data.
+Data Science,Concepts,P Value,P-value measures the strength of evidence against a hypothesis.
+Data Science,Concepts,Correlation,Correlation measures the relationship between variables.
+Data Science,Concepts,Regression Analysis,Regression analysis models relationships between variables.
+Data Science,Concepts,Time Series Analysis,Time series analysis studies data points over time.
+Data Science,Concepts,Data Cleaning,Data cleaning removes errors and inconsistencies.
+Data Science,Concepts,Missing Data,Missing data is handled by imputation or removal.
+Data Science,Concepts,Outlier Detection,Outlier detection identifies unusual data points.
+Data Science,Concepts,Data Normalization,Data normalization scales data to a standard range.
+Data Science,Concepts,Feature Selection,Feature selection chooses relevant variables for analysis.
+Data Science,Concepts,Data Ethics,Data ethics ensures responsible and fair data use.
+Introduction to AI,Concepts,AI Definition,Artificial Intelligence (AI) is the simulation of human intelligence in machines to perform tasks like reasoning and learning.
+Introduction to AI,Concepts,AI History,AI began in the 1950s with pioneers like Alan Turing; milestones include expert systems and deep learning advancements.
+Introduction to AI,Concepts,AI vs ML vs DL,AI is the broad concept of intelligent machines; ML is a subset where systems learn from data; DL uses deep neural networks.
+Introduction to AI,Concepts,Depth Limited Search,Depth Limited Search restricts DFS to a depth limit to avoid infinite loops.
+Introduction to AI,Concepts,Uniform Cost Search,Uniform Cost Search finds the lowest-cost path by exploring nodes with the least total cost first.
+Introduction to AI,Concepts,Iterative Deepening DFS,Iterative Deepening DFS combines BFS's completeness with DFS's low memory use by increasing depth limits.
+Introduction to AI,Concepts,Beam Search,Beam Search optimizes Best First Search by limiting the search to top-k promising nodes.
+Introduction to AI,Concepts,A Star Algorithm,A* (A Star) uses heuristics plus path cost to find the optimal path efficiently.
+Introduction to AI,Concepts,State Space Search,State Space Search models problems like the Eight Tile Puzzle as states and transitions.
+Introduction to AI,Concepts,Knowledge Representation,Knowledge Representation (KR) organizes information for AI reasoning and decision-making.
+Introduction to AI,Concepts,Propositional Logic,Propositional Logic uses true/false statements with syntax and inference rules for reasoning.
+Introduction to AI,Concepts,First Order Logic,First-Order Logic (FOL) uses predicates and quantifiers to represent complex relationships.
+Introduction to AI,Concepts,Forward Chaining,Forward chaining starts with facts and applies rules to reach conclusions.
+Introduction to AI,Concepts,Backward Chaining,Backward chaining starts with goals and works backward to find supporting facts.
+Introduction to AI,Concepts,Inference Engine,An inference engine applies rules to derive conclusions in expert systems.
+Introduction to AI,Concepts,Knowledge Acquisition,Knowledge acquisition gathers expert knowledge for AI systems.
+Introduction to AI,Concepts,Rule Based vs Case Based,Rule-based systems use predefined rules; case-based systems reason from past examples.
+Introduction to AI,Concepts,Semantic Networks,Semantic networks represent knowledge as nodes (concepts) and edges (relationships).
+Introduction to AI,Concepts,Frames Knowledge,Frames organize knowledge into structured attributes for reasoning.
+Introduction to AI,Concepts,Scripts Knowledge,Scripts represent stereotypical event sequences for contextual understanding.
+Introduction to AI,Concepts,Bayes Theorem,Bayes Theorem calculates conditional probabilities for uncertain reasoning.
+Introduction to AI,Concepts,Bayesian Belief Networks,Bayesian Belief Networks model probabilistic relationships among variables.
+Introduction to AI,Concepts,Adversarial Search,Adversarial search models competitive environments like games.
+Introduction to AI,Concepts,Minimax Algorithm,Minimax algorithm evaluates game moves to minimize loss and maximize gain.
+Introduction to AI,Concepts,Alpha Beta Pruning,Alpha-Beta Pruning optimizes Minimax by eliminating unpromising branches.
+Introduction to AI,Concepts,Linear Regression,Linear Regression models linear relationships between variables for prediction.
+Introduction to AI,Concepts,Logistic Regression,Logistic Regression predicts binary outcomes using a sigmoid function.
+Introduction to AI,Concepts,Hyperparameter Tuning,Hyperparameter tuning optimizes model settings for better performance.
+Introduction to AI,Concepts,Decision Trees,Decision Trees split data based on feature conditions for classification or regression.
+Introduction to AI,Concepts,Random Forests,Random Forests combine multiple decision trees for improved accuracy.
+Introduction to AI,Concepts,Support Vector Machines,SVMs find the optimal hyperplane to separate data classes.
+Introduction to AI,Concepts,K Means Clustering,K-Means Clustering groups data into K clusters based on similarity.
+Introduction to AI,Concepts,Artificial Neural Networks,ANNs mimic human brains with interconnected nodes for learning.
+Introduction to AI,Concepts,Multi Layer Perceptron,MLP is a feedforward ANN with multiple layers and backpropagation.
+Introduction to AI,Concepts,Transfer Learning,Transfer Learning reuses pre-trained models for new tasks.
+Networking,Overview,Objective,Introduce fundamental networking concepts and practical configurations using tools like Packet Tracer.
+Networking,Tools,Software Tool,Packet Tracer is used for simulating network topologies and configurations.
+Networking,Concepts,Introduction to Packet Tracer,Packet Tracer is a simulation tool for designing and testing network setups.
+Networking,Concepts,Adding a Switch,Switches improve network efficiency by directing traffic to specific devices.
+Networking,Concepts,Configuring IP Addresses,Assign IP addresses and subnet masks to hosts for network communication.
+Networking,Concepts,Duplex Auto,Auto-duplex negotiates speed and duplex settings between devices.
+Networking,Concepts,Deleting a Device or Link,Remove devices or connections in Packet Tracer to modify topologies.
+Networking,Concepts,Ipconfig,Displays IP configuration details of a device.
+Networking,Concepts,Getmac,Retrieves the MAC address of a device.
+Networking,Concepts,Ping,Tests connectivity between devices using ICMP packets.
+Networking,Concepts,Loopback Address,127.0.0.1 is used to test local network stack.
+Networking,Concepts,Ping Website,Tests connectivity to a website using its domain name or IP.
+Networking,Concepts,Check Server IP,Identifies the IP address of a server for connectivity.
+Networking,Concepts,Statically Check IP,Manually verify IP address assignments.
+Networking,Concepts,Check Domain Name,Resolves domain names to IP addresses using tools like nslookup.
+Networking,Concepts,DNS Cache,Displays cached DNS entries for faster name resolution.
+Networking,Concepts,Hybrid Topology,Combines multiple topologies for flexibility and scalability.
+Networking,Concepts,Spanning Tree Protocol,Prevents switching loops by creating a loop-free topology.
+Networking,Concepts,STP Root Bridge,Elects a central bridge to manage network traffic flow.
+Networking,Concepts,Root Ports,Ports closest to the root bridge in STP for optimal data paths.
+Networking,Concepts,Designated Ports,Forward traffic in STP to prevent loops.
+Networking,Concepts,Basic STP Configuration,Commands to enable and tune STP on switches.
+Networking,Concepts,VLAN,Virtual LANs segment networks logically without physical separation.
+Networking,Concepts,Inter-VLAN Routing,Router on a stick enables communication between VLANs.
+Networking,Concepts,Troubleshooting Port Connectivity,Diagnose issues like duplex mismatches or incorrect configurations.
+Networking,Concepts,Configure Hostname,Assigns a name to a switch for easy identification.
+Networking,Concepts,Configure VLAN 1,Default VLAN configuration for switch management.
+Networking,Concepts,Configure Time,Sets the current time on network devices for logging.
+Networking,Concepts,Configure Passwords,Secures access to network devices.
+Networking,Concepts,Login Banner,Displays a message before login for security or information.
+Networking,Concepts,Configure Router,Sets up router interfaces and routing protocols.
+Networking,Concepts,Duplex Mismatch,Solves speed/duplex conflicts causing network issues.
+Networking,Concepts,Port Security,Limits MAC addresses on switch ports to enhance security.
+Networking,Concepts,Secure Unused Ports,Disables unused switch ports to prevent unauthorized access.
+Networking,Concepts,Manage Switch Config,Saves or backs up switch configurations.
+Networking,Concepts,Set Subnet Mask,Configures subnet masks for proper network segmentation.
+Networking,Concepts,Static Routing,Manually defines routes for predictable network paths.
+Networking,Concepts,Static Routing Disadvantages,Lacks scalability and adaptability for dynamic networks.
+Networking,Concepts,RIP,Routing Information Protocol dynamically shares routing info using distance-vector.
+Networking,Concepts,OSPF,Open Shortest Path First uses link-state for efficient dynamic routing.
+Networking,Concepts,DHCP,Dynamic Host Configuration Protocol automatically assigns IP addresses.
+Networking,Concepts,DNS,Domain Name System resolves domain names to IP addresses.
+Networking,Concepts,Web Server Configuration,Sets up servers for hosting web content.
+Networking,Concepts,CLI Commands for VLAN,Configures VLANs using command-line interface.
